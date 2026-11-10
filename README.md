@@ -1,10 +1,7 @@
 # NaVAR
 
 Anonymous network architecture release for low-light image restoration on LOLv1
-and LOLv2. This repository contains the model definition and its required network
-components only. All parameters are initialized locally; constructing the model
-does not load files or download assets. Pretrained parameters are required for
-meaningful restoration results.
+and LOLv2.
 
 ## Architecture
 
